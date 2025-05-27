@@ -1,0 +1,72 @@
+Total training samples: 4170
+Total validation samples: 736
+Epoch [1/33] (Train) - Time: 246.01s - Loss: 0.8755 - Accuracy: 59.95% - LR: 0.000100
+Epoch [1/33] (Val) - Time: 29.66s - Loss: 0.7681 - Accuracy: 68.89%
+Epoch [2/33] (Train) - Time: 240.44s - Loss: 0.7809 - Accuracy: 65.49% - LR: 0.000100
+Epoch [2/33] (Val) - Time: 26.83s - Loss: 0.7138 - Accuracy: 70.92%
+Epoch [3/33] (Train) - Time: 240.97s - Loss: 0.7414 - Accuracy: 68.49% - LR: 0.000100
+Epoch [3/33] (Val) - Time: 30.19s - Loss: 0.6548 - Accuracy: 71.88%
+Epoch [4/33] (Train) - Time: 245.64s - Loss: 0.7111 - Accuracy: 69.69% - LR: 0.000100
+Epoch [4/33] (Val) - Time: 26.95s - Loss: 0.6601 - Accuracy: 72.15%
+Epoch [5/33] (Train) - Time: 236.71s - Loss: 0.6781 - Accuracy: 72.47% - LR: 0.000100
+Epoch [5/33] (Val) - Time: 27.99s - Loss: 0.6342 - Accuracy: 75.54%
+Epoch [6/33] (Train) - Time: 230.62s - Loss: 0.6678 - Accuracy: 71.18% - LR: 0.000100
+Epoch [6/33] (Val) - Time: 25.81s - Loss: 0.6101 - Accuracy: 75.00%
+Epoch [7/33] (Train) - Time: 233.99s - Loss: 0.6528 - Accuracy: 72.85% - LR: 0.000100
+Epoch [7/33] (Val) - Time: 29.76s - Loss: 0.5977 - Accuracy: 75.95%
+Epoch [8/33] (Train) - Time: 235.06s - Loss: 0.6247 - Accuracy: 74.22% - LR: 0.000100
+Epoch [8/33] (Val) - Time: 26.71s - Loss: 0.6745 - Accuracy: 70.65%
+Epoch [9/33] (Train) - Time: 241.32s - Loss: 0.6231 - Accuracy: 74.51% - LR: 0.000100
+Epoch [9/33] (Val) - Time: 30.33s - Loss: 0.6093 - Accuracy: 75.41%
+Epoch [10/33] (Train) - Time: 242.06s - Loss: 0.6017 - Accuracy: 74.70% - LR: 0.000100
+Epoch [10/33] (Val) - Time: 26.03s - Loss: 0.6207 - Accuracy: 72.55%
+Epoch [11/33] (Train) - Time: 241.39s - Loss: 0.5788 - Accuracy: 76.00% - LR: 0.000100
+Epoch [11/33] (Val) - Time: 25.27s - Loss: 0.5981 - Accuracy: 74.59%
+Epoch [12/33] (Train) - Time: 234.08s - Loss: 0.5475 - Accuracy: 76.76% - LR: 0.000010
+Epoch [12/33] (Val) - Time: 25.95s - Loss: 0.5497 - Accuracy: 77.17%
+Epoch [13/33] (Train) - Time: 237.11s - Loss: 0.5216 - Accuracy: 78.13% - LR: 0.000010
+Epoch [13/33] (Val) - Time: 25.37s - Loss: 0.5246 - Accuracy: 77.58%
+Epoch [14/33] (Train) - Time: 296.84s - Loss: 0.4993 - Accuracy: 78.42% - LR: 0.000010
+Epoch [14/33] (Val) - Time: 29.71s - Loss: 0.5373 - Accuracy: 77.99%
+Epoch [15/33] (Train) - Time: 236.33s - Loss: 0.5070 - Accuracy: 78.39% - LR: 0.000010
+Epoch [15/33] (Val) - Time: 25.31s - Loss: 0.5217 - Accuracy: 78.67%
+Epoch [16/33] (Train) - Time: 266.33s - Loss: 0.4845 - Accuracy: 79.71% - LR: 0.000010
+Epoch [16/33] (Val) - Time: 27.26s - Loss: 0.5258 - Accuracy: 77.31%
+Epoch [17/33] (Train) - Time: 240.35s - Loss: 0.4951 - Accuracy: 79.35% - LR: 0.000010
+Epoch [17/33] (Val) - Time: 26.86s - Loss: 0.5054 - Accuracy: 78.94%
+Epoch [18/33] (Train) - Time: 249.31s - Loss: 0.4739 - Accuracy: 79.71% - LR: 0.000010
+Epoch [18/33] (Val) - Time: 28.97s - Loss: 0.5200 - Accuracy: 78.67%
+Epoch [19/33] (Train) - Time: 243.16s - Loss: 0.4895 - Accuracy: 79.93% - LR: 0.000010
+Epoch [19/33] (Val) - Time: 26.46s - Loss: 0.5015 - Accuracy: 78.80%
+Epoch [20/33] (Train) - Time: 240.66s - Loss: 0.4672 - Accuracy: 79.47% - LR: 0.000010
+Epoch [20/33] (Val) - Time: 26.93s - Loss: 0.5164 - Accuracy: 78.80%
+Epoch [21/33] (Train) - Time: 252.27s - Loss: 0.4678 - Accuracy: 79.86% - LR: 0.000010
+Epoch [21/33] (Val) - Time: 29.20s - Loss: 0.5270 - Accuracy: 79.48%
+Epoch [22/33] (Train) - Time: 249.47s - Loss: 0.4601 - Accuracy: 80.89% - LR: 0.000010
+Epoch [22/33] (Val) - Time: 28.53s - Loss: 0.5332 - Accuracy: 79.48%
+Epoch [23/33] (Train) - Time: 239.51s - Loss: 0.4513 - Accuracy: 81.27% - LR: 0.000010
+Epoch [23/33] (Val) - Time: 25.48s - Loss: 0.5283 - Accuracy: 77.58%
+Epoch [24/33] (Train) - Time: 233.51s - Loss: 0.4496 - Accuracy: 81.61% - LR: 0.000001
+Epoch [24/33] (Val) - Time: 25.24s - Loss: 0.5122 - Accuracy: 79.76%
+Epoch [25/33] (Train) - Time: 232.33s - Loss: 0.4411 - Accuracy: 80.79% - LR: 0.000001
+Epoch [25/33] (Val) - Time: 25.20s - Loss: 0.5241 - Accuracy: 79.48%
+Epoch [26/33] (Train) - Time: 234.24s - Loss: 0.4599 - Accuracy: 80.46% - LR: 0.000001
+Epoch [26/33] (Val) - Time: 25.12s - Loss: 0.4935 - Accuracy: 80.03%
+Epoch [27/33] (Train) - Time: 233.84s - Loss: 0.4496 - Accuracy: 81.15% - LR: 0.000001
+Epoch [27/33] (Val) - Time: 24.81s - Loss: 0.5161 - Accuracy: 79.21%
+Epoch [28/33] (Train) - Time: 230.22s - Loss: 0.4545 - Accuracy: 81.06% - LR: 0.000001
+Epoch [28/33] (Val) - Time: 25.12s - Loss: 0.5255 - Accuracy: 78.80%
+Epoch [29/33] (Train) - Time: 233.12s - Loss: 0.4405 - Accuracy: 81.29% - LR: 0.000001
+Epoch [29/33] (Val) - Time: 25.60s - Loss: 0.5262 - Accuracy: 78.53%
+Epoch [30/33] (Train) - Time: 232.25s - Loss: 0.4403 - Accuracy: 81.87% - LR: 0.000001
+Epoch [30/33] (Val) - Time: 24.62s - Loss: 0.5024 - Accuracy: 79.48%
+Epoch [31/33] (Train) - Time: 231.07s - Loss: 0.4408 - Accuracy: 81.73% - LR: 0.000000
+Epoch [31/33] (Val) - Time: 25.47s - Loss: 0.4965 - Accuracy: 80.98%
+Epoch [32/33] (Train) - Time: 230.33s - Loss: 0.4411 - Accuracy: 81.51% - LR: 0.000000
+Epoch [32/33] (Val) - Time: 25.58s - Loss: 0.4908 - Accuracy: 80.03%
+Epoch [33/33] (Train) - Time: 226.70s - Loss: 0.4464 - Accuracy: 81.22% - LR: 0.000000
+Epoch [33/33] (Val) - Time: 24.95s - Loss: 0.5323 - Accuracy: 79.89%
+
+✅ Training completed in 8820.54 seconds.
+Model saved as models/osteoporosis_model_resnet50.pth
+Final Validation Accuracy written to logs/osteoporosis_accuracy_resnet50.txt: 79.89%

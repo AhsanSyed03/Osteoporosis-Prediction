@@ -1,0 +1,2 @@
+bone_type,condition,description,confidence,inference_time,estimated_bmd,bone_accuracy,condition_accuracy,image
+Spine,normal,"Normal bone density, healthy bones.",59.403884410858154,1.0206561088562012,1.2,99.98,74.59,10.png

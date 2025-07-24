@@ -4,6 +4,8 @@ import datetime
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import ssl
+import certifi
 from torch.utils.data import DataLoader, ConcatDataset
 import torchvision.transforms as transforms
 from torchvision import models
@@ -12,6 +14,10 @@ from utils.dataset import OsteoporosisDataset
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 from torch.amp import GradScaler, autocast
 import torch.nn.functional as F
+
+#SSL Connection fix
+ssl_context = ssl.create_default_context(cafile=certifi.where())
+
 
 if __name__ == '__main__':
     # Set device and print only once in the main process

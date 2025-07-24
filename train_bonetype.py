@@ -4,6 +4,8 @@ import datetime
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import ssl
+import certifi
 from torch.utils.data import DataLoader, Dataset
 from torchvision import models, transforms
 from PIL import Image
@@ -11,6 +13,8 @@ from tqdm import tqdm
 from torch.amp import GradScaler, autocast
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
+#SSL certificate issue fix
+ssl_context = ssl.create_default_context(cafile=certifi.where())
 # Dataset class
 class BoneTypeDataset(Dataset):
     def __init__(self, root_dir, transform=None):
